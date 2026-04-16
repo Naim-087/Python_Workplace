@@ -1,0 +1,21 @@
+id,student name,dept,gpa,age,grade
+102,Naim,S-W-E,3.85,20,A
+201,Tajrin,CSE,3.9,21,A+
+310,Rafi,EEE,3.7,22,A-
+434,Sara,BBA,3.6,23,B+
+521,Fahim,CSE,3.75,21,A
+691,Mim,S-W-E,3.88,20,A
+721,Rakib,EEE,3.5,24,B
+809,Sadia,BBA,3.65,22,B+
+901,Arif,CSE,3.8,23,A
+510,Tania,S-W-E,3.95,20,A+
+611,Hasan,CSE,3.45,21,B
+712,Nusrat,EEE,3.78,22,A-
+813,Rayhan,BBA,3.55,20,B+
+914,Lamia,S-W-E,3.68,23,A
+1015,Shakil,CSE,3.82,21,A
+1116,Farzana,EEE,3.66,24,B+
+1217,Mehedi,BBA,3.73,22,A
+1318,Jannat,S-W-E,3.9,20,A+
+1419,Irfan,CSE,3.58,23,B+
+1520,Sakib,EEE,3.84,21,A

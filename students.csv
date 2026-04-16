@@ -1,0 +1,21 @@
+ID,Student Name,Dept,GPA,Age,Grade,DSA Marks,Algorithm Marks,Python Marks,Instructor Name,Country,Total Marks,A+ in DS,Pass in Algo
+102,Naim,S-W-E,3.85,20,A,85,85,88,Dr. Rahman,Bangladesh,258,A+,True
+201,Tajrin,CSE,3.9,21,A+,90,0,0,Dr. Karim,Bangladesh,90,A+,False
+310,Rafi,EEE,3.7,22,A-,78,78,78,Prof. Alam,Bangladesh,234,A,True
+434,Sara,BBA,3.6,23,B+,72,70,78,Dr. Sultana,Bangladesh,220,A,False
+521,Fahim,CSE,3.75,21,A,88,85,90,Dr. Karim,Bangladesh,263,A+,True
+691,Mim,S-W-E,3.88,20,A,91,90,92,Dr. Rahman,Bangladesh,273,A+,True
+721,Rakib,EEE,3.5,24,B,0,73,0,Prof. Alam,Bangladesh,73,A,True
+809,Sadia,BBA,3.65,22,B+,74,0,80,Dr. Sultana,Bangladesh,154,A,False
+901,Arif,CSE,3.8,23,A,80,82,86,Dr. Karim,Bangladesh,248,A,True
+510,Tania,S-W-E,3.95,20,A+,95,94,97,Dr. Rahman,Bangladesh,286,A+,True
+611,Hasan,CSE,3.45,21,B,68,66,72,Prof. Alam,Bangladesh,206,A,False
+712,Nusrat,EEE,3.78,22,A-,82,83,85,Dr. Sultana,Bangladesh,250,A+,True
+813,Rayhan,BBA,3.55,20,B+,70,78,77,Dr. Karim,Bangladesh,225,A,True
+914,Lamia,S-W-E,3.68,23,A,87,88,89,Dr. Rahman,Bangladesh,264,A+,True
+1015,Shakil,CSE,3.82,21,A,0,91,0,Prof. Alam,Bangladesh,91,A,True
+1116,Farzana,EEE,3.66,24,B+,75,77,79,Dr. Sultana,Bangladesh,231,A,True
+1217,Mehedi,BBA,3.73,22,A,84,81,83,Dr. Karim,Bangladesh,248,A+,True
+1318,Jannat,S-W-E,3.9,20,A+,96,96,96,Dr. Rahman,Bangladesh,288,A+,True
+1419,Irfan,CSE,3.58,23,B+,71,69,74,Prof. Alam,Bangladesh,214,A,False
+1520,Sakib,EEE,3.84,21,A,86,89,91,Dr. Sultana,Bangladesh,266,A+,True

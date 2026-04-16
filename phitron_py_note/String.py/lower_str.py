@@ -1,0 +1,3 @@
+my_str='LOWER(): RETURNS A NEW STRING WITH ALL CHARACTERS ' \
+'CONVERTED TO LOWERCASE.'
+print(my_str.lower())

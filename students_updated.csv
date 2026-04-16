@@ -1,0 +1,21 @@
+ID,Student Name,Dept,GPA,Age,Grade,DSA Marks,Algorithm Marks,Python Marks,Instructor
+102,Naim,S-W-E,3.85,20,A,85,80,88,Dr. Rahman
+201,Tajrin,CSE,3.9,21,A+,90,92,94,Dr. Karim
+310,Rafi,EEE,3.7,22,A-,78,76,82,Prof. Alam
+434,Sara,BBA,3.6,23,B+,72,70,78,Dr. Sultana
+521,Fahim,CSE,3.75,21,A,88,85,90,Dr. Karim
+691,Mim,S-W-E,3.88,20,A,91,90,92,Dr. Rahman
+721,Rakib,EEE,3.5,24,B,69,73,75,Prof. Alam
+809,Sadia,BBA,3.65,22,B+,74,75,80,Dr. Sultana
+901,Arif,CSE,3.8,23,A,80,82,86,Dr. Karim
+510,Tania,S-W-E,3.95,20,A+,95,94,97,Dr. Rahman
+611,Hasan,CSE,3.45,21,B,68,66,72,Prof. Alam
+712,Nusrat,EEE,3.78,22,A-,82,83,85,Dr. Sultana
+813,Rayhan,BBA,3.55,20,B+,70,72,77,Dr. Karim
+914,Lamia,S-W-E,3.68,23,A,87,88,89,Dr. Rahman
+1015,Shakil,CSE,3.82,21,A,89,91,93,Prof. Alam
+1116,Farzana,EEE,3.66,24,B+,75,77,79,Dr. Sultana
+1217,Mehedi,BBA,3.73,22,A,84,81,83,Dr. Karim
+1318,Jannat,S-W-E,3.9,20,A+,93,95,96,Dr. Rahman
+1419,Irfan,CSE,3.58,23,B+,71,69,74,Prof. Alam
+1520,Sakib,EEE,3.84,21,A,86,89,91,Dr. Sultana
