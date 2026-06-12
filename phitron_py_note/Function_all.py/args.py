@@ -1,5 +1,5 @@
 '''*args and **kwargs allow functions to accept 
-a unknown number of arguments.'''
+an unknown number of arguments.'''
 
 def Sum(*args):
     print(sum(args))
