@@ -12,7 +12,7 @@ class ATM:
 
         if amount > 0:
             self.__balance += amount
-            print(f"৳{amount} deposited successfully.")
+            print(f"{amount} deposited successfully.")
         else:
             print("Invalid amount!")
 
@@ -26,7 +26,7 @@ class ATM:
 
         else:
             self.__balance -= amount
-            print(f"৳{amount} withdrawn successfully.")
+            print(f"{amount} withdrawn successfully.")
 
     def check_balance(self):
         print(f"Current Balance: ৳{self.__balance}")
