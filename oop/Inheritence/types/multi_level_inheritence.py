@@ -11,6 +11,6 @@ class PHD(Student):
         print("After few Years I got a full funded PHD Offer")
 
 P = PHD()
-print(P.introduce())
-print(P.study())
-print(P.Got())
+P.introduce()
+P.study()
+P.Got()
