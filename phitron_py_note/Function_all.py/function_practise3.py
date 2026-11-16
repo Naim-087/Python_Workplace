@@ -68,3 +68,12 @@ def analyze_students(students):
 n = int(input())
 students = get_student_data(n)
 analyze_students(students)
+
+
+# input : 
+# 5
+# Naim 85 90 88
+# Rahim 35 75 80
+# Karim 92 95 90
+# Sakib 60 55 70
+# Hasan 80 85 75
